@@ -42,9 +42,9 @@
     
     
     <entry>
-      <title></title>
-      <link href="/photos/index.html"/>
-      <url>/photos/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -64,9 +64,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title></title>
+      <link href="/photos/index.html"/>
+      <url>/photos/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
