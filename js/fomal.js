@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/dm14.webp);
-    --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --default-bg: url(https://ts1.cn.mm.bing.net/th/id/R-C.ba32229827bdced93abc320e45ebeeb3?rik=5BHEFrVAdJYFPQ&riu=http%3a%2f%2fimg.netbian.com%2ffile%2f2023%2f0713%2f190438zgzlm.jpg&ehk=zfaLsk6Iuj9kkGWbmPcdUj1XaYRyBZd2Uxo1q8z4qak%3d&risl=&pid=ImgRaw&r=0);
+    --darkmode-bg:url(https://ts1.cn.mm.bing.net/th/id/R-C.ba32229827bdced93abc320e45ebeeb3?rik=5BHEFrVAdJYFPQ&riu=http%3a%2f%2fimg.netbian.com%2ffile%2f2023%2f0713%2f190438zgzlm.jpg&ehk=zfaLsk6Iuj9kkGWbmPcdUj1XaYRyBZd2Uxo1q8z4qak%3d&risl=&pid=ImgRaw&r=0);
+    --mobileday-bg: url(https://ts1.cn.mm.bing.net/th/id/R-C.ba32229827bdced93abc320e45ebeeb3?rik=5BHEFrVAdJYFPQ&riu=http%3a%2f%2fimg.netbian.com%2ffile%2f2023%2f0713%2f190438zgzlm.jpg&ehk=zfaLsk6Iuj9kkGWbmPcdUj1XaYRyBZd2Uxo1q8z4qak%3d&risl=&pid=ImgRaw&r=0);
+    --mobilenight-bg: url(https://ts1.cn.mm.bing.net/th/id/R-C.ba32229827bdced93abc320e45ebeeb3?rik=5BHEFrVAdJYFPQ&riu=http%3a%2f%2fimg.netbian.com%2ffile%2f2023%2f0713%2f190438zgzlm.jpg&ehk=zfaLsk6Iuj9kkGWbmPcdUj1XaYRyBZd2Uxo1q8z4qak%3d&risl=&pid=ImgRaw&r=0);
   }`;
 }
 // 切换背景主函数
