@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.linsue.top/site/time/index.html</loc>
+    
+    <lastmod>2024-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.linsue.top/personal/about/index.html</loc>
+    
+    <lastmod>2024-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.linsue.top/social/fcircle/index.html</loc>
     
     <lastmod>2024-11-16</lastmod>
@@ -38,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://www.linsue.top/site/time/index.html</loc>
-    
-    <lastmod>2024-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.linsue.top/site/census/index.html</loc>
     
     <lastmod>2024-11-15</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://www.linsue.top/personal/bb/index.html</loc>
-    
-    <lastmod>2024-11-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.linsue.top/personal/about/index.html</loc>
     
     <lastmod>2024-11-15</lastmod>
     
@@ -210,7 +210,7 @@
 
   
   <url>
-    <loc>https://www.linsue.top/categories/Java-web/</loc>
+    <loc>https://www.linsue.top/categories/JavaWeb/</loc>
     <lastmod>2024-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
