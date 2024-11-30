@@ -3174,10 +3174,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(assets\hexo.jpg);
-    --darkmode-bg:url(assets\hexo.jpg);
-    --mobileday-bg: url(assets\hexo.jpg);
-    --mobilenight-bg: url(assets\hexo.jpg);
+    --default-bg: url(https://tuchuang.voooe.cn/image/C5J8I);
+    --darkmode-bg:url(https://tuchuang.voooe.cn/image/C5J8I);
+    --mobileday-bg: url(https://tuchuang.voooe.cn/image/C5J8I);
+    --mobilenight-bg: url(https://tuchuang.voooe.cn/image/C5J8I);
   }`;
 }
 // 切换背景主函数
